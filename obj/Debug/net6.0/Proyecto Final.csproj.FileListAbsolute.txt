@@ -1,0 +1,5 @@
+C:\Users\Ariadna\source\repos\Proyecto Final\Proyecto Final\obj\Debug\net6.0\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\Ariadna\source\repos\Proyecto Final\Proyecto Final\obj\Debug\net6.0\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariadna\source\repos\Proyecto Final\Proyecto Final\obj\Debug\net6.0\Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\Ariadna\source\repos\Proyecto Final\Proyecto Final\obj\Debug\net6.0\Proyecto Final.AssemblyInfo.cs
+C:\Users\Ariadna\source\repos\Proyecto Final\Proyecto Final\obj\Debug\net6.0\Proyecto Final.csproj.CoreCompileInputs.cache
